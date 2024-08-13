@@ -5,7 +5,6 @@ import {
   Image,
   Spinner,
   Button,
-  Link,
   Heading,
 } from "@chakra-ui/react";
 import useGenres, { Genre } from "../hooks/useGenres";
